@@ -1,8 +1,3 @@
-h1 {
-    text-align: center;
-    font-family: "Comic Sans MS", "Comic Sans", cursive;
-}
-
-.maths {
-    text-align: center;
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
 }
